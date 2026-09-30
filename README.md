@@ -37,6 +37,7 @@ The pipeline leverages a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)**
 
 5. **Visualization Layer:**
    * **Power BI** connects directly to Amazon Athena via ODBC driver to render dynamic dashboards for decision-makers.
+   * Report Link >>>> https://app.powerbi.com/view?r=eyJrIjoiODNjMGQ5YzAtMWRiZC00MjJiLTkxNTktODEzZjAxNjU0MTMzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ---
 
