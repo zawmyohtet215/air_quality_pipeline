@@ -63,14 +63,5 @@ The downstream Power BI dashboard highlights critical environmental patterns acr
 
 ---
 
-## 🔒 Proprietary Notice & Implementation Details
-
-> **Note on Source Code Access:**  
-> The underlying AWS Lambda codebase, IAC templates, and repository configuration are maintained in a private repository for intellectual property protection and security best practices. 
-> 
-> Detailed architecture patterns, data flow designs, and schema structures are publicly documented here to demonstrate technical design and cloud engineering methodology.
-
----
-
 ## 📝 Disclaimer
 *This project is built for analytical, research, and portfolio demonstration purposes using public data from Open-Meteo. It does not represent an official report from any government authority.*
