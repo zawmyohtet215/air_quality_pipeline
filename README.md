@@ -4,7 +4,7 @@ An end-to-end, serverless batch data pipeline and interactive analytics platform
 
 ---
 
-## 📌 Project Overview & Motivation
+## 1. Project Overview
 
 Seasonal haze and fine particulate matter (PM 2.5) pollution pose severe public health risks across Southeast Asia, particularly in Myanmar and Thailand. Access to clean, aggregated, and historical air quality data is critical for environmental awareness and data-driven decision-making.
 
@@ -12,7 +12,7 @@ This project was built to serve the public interest by transforming scattered AP
 
 ---
 
-## 🏗️ System Architecture & Data Flow
+## 2. System Architecture & Data Flow
 
 ![Architecture Diagram](./airqualitypipeline_architecture.jpg)
 
@@ -41,7 +41,7 @@ The pipeline leverages a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)**
 
 ---
 
-## 🛠️ Tech Stack & Cloud Infrastructure
+## 3. Tech Stack & Cloud Infrastructure
 
 * **Cloud Provider:** Amazon Web Services (AWS)
 * **Compute / Serverless:** AWS Lambda, AWS EventBridge Scheduler
@@ -53,7 +53,7 @@ The pipeline leverages a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)**
 
 ---
 
-## 📊 Analytics & Key Findings
+## 4. Analytics & Key Findings
 
 The downstream Power BI dashboard highlights critical environmental patterns across major cities (Bangkok, Chiang Mai, Mae Sot, Yangon, Mandalay):
 
@@ -63,5 +63,5 @@ The downstream Power BI dashboard highlights critical environmental patterns acr
 
 ---
 
-## 📝 Disclaimer
+## 5. Disclaimer
 *This project is built for analytical, research, and portfolio demonstration purposes using public data from Open-Meteo. It does not represent an official report from any government authority.*
